@@ -16,7 +16,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🌟 Snapshot
+### 🌟 Snapshot
 - **9+ years** crafting production-grade, cloud-native SaaS products  
 - Founder & **CTO, Bracket Mind** — HR, Payroll, Accounting & AI-driven security solutions  
 - Deep expertise in **multi-tenant ERP, payroll tax, computer-vision surveillance**  
@@ -24,9 +24,9 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🧑‍💼 How I Work — 🚀 Dual Offering
+### 🧑‍💼 How I Work — 🚀 Dual Offering
 
-### 👨‍💻 Individual Services
+## 👨‍💻 Individual Services
 - **Architecture Consulting:** Clean Architecture, Micro-services, SaaS patterns  
 - **Full-Stack Development:** .NET + React / Angular · Node / Nest + React / Angular · Python / FastAPI + React / Angular  
 - **AI Integration:** RAG chatbots, Computer Vision, LLM-powered automation  
@@ -34,7 +34,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-### 🏢 Company Services (via Bracket Mind)
+## 🏢 Company Services (via Bracket Mind)
 - **End-to-End Product Development:** From MVP to enterprise scale  
 - **HRTech / Payroll Solutions:** Complete ERP systems  
 - **AI Surveillance Systems:** Custom computer-vision solutions  
@@ -42,7 +42,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🌟 Value Proposition
+### 🌟 Value Proposition
 **For Companies Needing:**
 ✔ **Production-Ready SaaS** - From architecture to deployment  
 ✔ **AI That Actually Works** - Beyond POCs to scalable solutions  
@@ -50,7 +50,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## �️ Why Choose Me? - Specialized Expertise
+### �️ Why Choose Me? - Specialized Expertise
 
 | Specialty | What You Get | Proven Results |
 |-----------|--------------|----------------|
@@ -69,7 +69,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🛠 Tech Toolbox
+### 🛠 Tech Toolbox
 
 | Backend | Front-End | Data & AI | DevOps / Cloud |
 | --- | --- | --- | --- |
@@ -93,7 +93,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Tech Highlights | What Sets It Apart |
 | --- | --- | --- |
@@ -112,7 +112,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 📈 Engineering Highlights
+### 📈 Engineering Highlights
 - Shipped **30+** enterprise projects with > 95 % client satisfaction  
 - Boosted payroll engine throughput **70 %** using expression trees & caching  
 - Maintained **99.9 % uptime** across 3 regions with blue-green deploys  
@@ -120,14 +120,14 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🔭 Currently Building
+### 🔭 Currently Building
 - Vertical-Slice migration of legacy services (.NET 9)  
 - Jetson Nano YOLOv5 prototype for edge intruder detection  
 - Open-sourcing an **Upwork Job-Scraper** dashboard (React 19 + TS)
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🤝 Let’s Connect
+### 🤝 Let’s Connect
 Planning a **scalable SaaS** or integrating **AI at production scale**?  
 Whether you need a **single senior engineer** or a **full delivery squad**, I’m ready to help.
 
