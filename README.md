@@ -26,8 +26,8 @@
 
 ### 👨‍💻 Individual Services
 - **Architecture Consulting**: Clean Architecture, Microservices, SaaS Patterns
-- **Full-Stack Development**: .NET + React/Angular complete solutions
-- **AI Integration**: RAG, Computer Vision, LLM-powered automation
+- **Full-Stack Development**:  .NET + React/Angular | Node//Nest + React/Angular | Python/FastApi + React/Angular complete solutions
+- **AI Integration**: AI RAG Chatbots, Computer Vision, LLM-powered automation
 - **Legacy Modernization**: Monolith-to-Microservice migrations
 
 ### 🏢 Company Services (via Bracket Mind)
