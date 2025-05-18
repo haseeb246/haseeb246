@@ -40,14 +40,6 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## 🌟 Value Proposition
-**For Companies Needing:**
-✔ **Production-Ready SaaS** - From architecture to deployment  
-✔ **AI That Actually Works** - Beyond POCs to scalable solutions  
-✔ **Domain-Specific Expertise** - HRTech, Payroll, Surveillance AI  
-
-<!-- ────────────────────────────────────────────────────────── -->
-
 ## �️ Why Choose Me? - Specialized Expertise
 
 | Specialty | What You Get | Proven Results |
@@ -60,7 +52,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 
-## Key Differentiators:  
+## 🛠 Key Differentiators:  
 🔹 **CTO-Level Thinking** with hands-on execution  
 🔹 **Full lifecycle experience** - from POC to production scaling  
 🔹 **Domain expertise** in regulated industries (HRTech, Finance, Security)  
