@@ -52,6 +52,23 @@
 </p>
 </details>
 
+
+### 🔧 Specializations & Expertise
+
+| Domain | What I Deliver | Proof points |
+|--------|----------------|--------------|
+| **SaaS & ERP Architecture** | Clean / Vertical-Slice designs, modular monoliths & micro-services, multi-tenant patterns, Stripe or custom billing, feature-flag rollouts | Took Emformance ERP from zero → 200 + DB tables, <10 ms avg API latency, zero-downtime releases |
+| **Database Engineering** | SQL Server 2022 & PostgreSQL schema design, row-level security, sharding, pgvector / full-text search, performance tuning & indexing | Optimised payroll calc → **70 % faster**; designed RLS model serving 50 + tenants safely |
+| **Backend Excellence (.NET 8/9)** | CQRS + MediatR, Mapster, background jobs (Hangfire, RabbitMQ), gRPC & SignalR real-time comms, REST & GraphQL APIs, test automation | 30 + enterprise APIs shipped; audited 95 % code-coverage on core finance services |
+| **Modern Front-Ends** | React 18/19 + Vite, TypeScript, React Native (Expo), Angular 16 +, Tailwind/React-Bootstrap, custom component libraries, Storybook | Built reusable front-end kit → cut new screen dev time by **40 %** across teams |
+| **AI & Automation** | FastAPI micro-services, LangChain / Azure OpenAI RAG chatbots, YOLOv5 + OpenCV computer vision, TensorFlow & PyTorch pipelines | Deployed CCTV intrusion detector handling **10 k +** simultaneous camera feeds |
+| **DevOps & Cloud** | Docker, Kubernetes, Azure & AWS, GitHub Actions / Azure Pipelines CI-CD, Terraform IaC, observability with Grafana & Prometheus | Orchestrated blue-green deploys, 99.9 % uptime across 3 regions |
+| **Security & Compliance** | OAuth2 / OIDC, Azure AD, JWT multi-tenant scoping, data encryption at rest & in transit, GDPR & SOC 2 readiness | Implemented RBAC + audit-trails satisfying US payroll compliance reviews |
+
+> **Bottom-line:** I design and ship full-stack, production-grade SaaS systems — from database schema and domain logic to pixel-perfect UIs and AI pipelines.
+
+
+
 ### 🚀 Featured Projects
 
 | Project | Tech | Summary |
