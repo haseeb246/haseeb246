@@ -1,11 +1,6 @@
 <!-- GitHub Profile README -->
 <!-- Replace your stats card -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=haseeb246&show_icons=true&hide_border=true"
-    alt="Muhammad Haseeb's GitHub stats"
-/>
-</p>
+
 
 <!-- Tighten the headline -->
 <h1 align="center">Hi there 👋 I’m Muhammad Haseeb — Full-Stack & AI Architect</h1>
@@ -89,6 +84,13 @@
 > **Send me a message** — I’m always open to exciting projects and long-term partnerships.
 
 ---
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=haseeb246&show_icons=true&hide_border=true"
+    alt="Muhammad Haseeb's GitHub stats"
+/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" />
