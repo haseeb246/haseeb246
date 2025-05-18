@@ -67,6 +67,44 @@
 
 > **Bottom-line:** I design and ship full-stack, production-grade SaaS systems — from database schema and domain logic to pixel-perfect UIs and AI pipelines.
 
+-----
+
+### 🔧 Specializations & Expertise
+
+| Domain | What I Deliver | Proof points |
+|--------|----------------|--------------|
+| **SaaS & ERP Architecture** | Clean / Vertical-Slice designs, modular monoliths & micro-services, multi-tenant patterns, Stripe or custom billing, feature-flag rollouts | Took Emformance ERP from zero → 200 + tables, < 10 ms avg API latency, zero-downtime releases |
+| **Database Engineering** | SQL Server 2022 & PostgreSQL schema design, row-level security, sharding, pgvector / FTS, performance tuning & indexing | Optimised payroll calc → **70 % faster**; designed RLS model serving 50 + tenants safely |
+| **Modern Front-Ends** | React 18/19 + Vite, TypeScript, React Native (Expo), Angular 16 +, Tailwind/React-Bootstrap, Storybook | Built reusable component kit → cut new screen dev time by **40 %** |
+| **AI & Automation** | YOLOv5 + OpenCV CV pipelines, LangChain / Azure OpenAI RAG chatbots, TensorFlow & PyTorch training, edge inference | Deployed CCTV intrusion detector handling **10 k +** live camera feeds |
+| **DevOps & Cloud** | Docker, Kubernetes, Azure & AWS, GitHub Actions / Azure Pipelines CI-CD, Terraform IaC, Grafana & Prometheus observability | Achieved 99.9 % uptime across 3 regions with blue-green deploys |
+| **Security & Compliance** | OAuth2 / OIDC, Azure AD, JWT tenant scoping, encryption at rest & in transit, GDPR & SOC 2 readiness | Implemented RBAC + audit-trails for US payroll compliance |
+
+---
+
+#### 🛠 Backend Excellence (drill-down)
+
+| Stack | Key Skills | Notable Wins |
+|-------|-----------|--------------|
+| **.NET 8 / 9** | ASP.NET Web API • CQRS + MediatR • Mapster • Hangfire • gRPC • SignalR • xUnit | Delivered 30 + enterprise APIs; payroll engine refactor hit 95 % test coverage |
+| **Node.js / NestJS** | Modular architecture • TypeORM / Prisma • class-validator • BullMQ / RabbitMQ • REST & GraphQL • WebSockets | Built real-time chat & notification micro-service; 2× throughput vs previous Express stack |
+| **Python / FastAPI** | Async FastAPI micro-services • Pydantic validation • Uvicorn / Gunicorn • LangChain & OpenAI integration • Celery • PyTest | Launched RAG resume-screener API; sub-200 ms average response on Azure Container Apps |
+
+> **Bottom-line:** whether it’s C#, TypeScript, or Python, I craft robust, observable services that scale — and I plug them seamlessly into multi-module SaaS products.
+
+---
+
+#### 🎨 Front-End Excellence (drill-down)
+
+| Stack | Key Skills | Notable Wins |
+|-------|------------|--------------|
+| **React 18/19 + React Native (Expo)** | Vite • TypeScript • React-Bootstrap / Tailwind • Redux Toolkit & React Query • Storybook • React Data Table Component • Framer Motion | Shipped an Upwork Job-Scraper dashboard in **2 weeks**; built 50 + reusable UI components that cut new-screen dev time by **40 %** |
+| **Angular 16 +** | Stand-alone components • RxJS & NgRx • Angular FormBuilder • GrapesJS & Kendo UI integration • Dexie.js IndexedDB • SSR & PWAs | Delivered dynamic product-search page with server-side pagination & smart filters; created form-builder module that reduced HR-screen build effort by **35 %** |
+| **Front-End Tooling & QA** | ESLint & Prettier • Jest & React Testing Library • Cypress e2e • Lighthouse performance & a11y audits • i18n / l10n | Maintained **99 % Lighthouse accessibility score** across SaaS suite; CI gates all PRs on ≥ 90 % unit-test coverage |
+
+> **Result:** From pixel-perfect dashboards to high-performance mobile apps, I deliver front-ends that scale, convert, and delight users.
+
+
 
 
 ### 🚀 Featured Projects
