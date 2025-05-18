@@ -3,10 +3,8 @@
 <h3 align="center">Full-Stack Architect • AI Solutions Expert • CTO @ Bracket Mind</h3>
 
 <p align="center">
-  <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React • Python • AI/ML</em>
-<em>ASP.NET 8/9 • C# • React / Angular • Node / Nest • Python / FastAPI • RAG Chatbots • Computer Vision</em>
+  <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React/Angular • Python • AI/ML • RAG Chatbots • Computer Vision</em>
 </p>
-<p align="center"><em>ASP.NET 8/9 • C# • React / Angular • Node / Nest • Python / FastAPI • RAG Chatbots • Computer Vision</em></p>
 
 <p align="center">
   <a href="mailto:haseeb.butt416@gmail.com">📧 Email</a> •
