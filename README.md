@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I’m Muhammad Haseeb</h1>
-<h3 align="center">Full-Stack Architect · AI Solutions Expert · CTO @ Bracket Mind</h3>
+<h3 align="center">Full-Stack .Net Architect · AI Solutions Expert · CTO @ Bracket Mind</h3>
 
 <p align="center">
   <em>Building enterprise-grade SaaS for 9+ years | .NET · React / Angular · Node / Nest · Python · AI / ML · RAG Chatbots · Computer Vision</em>
