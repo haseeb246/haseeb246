@@ -3,19 +3,9 @@
 <h3 align="center">Full-Stack Architect • AI Solutions Expert • CTO @ Bracket Mind</h3>
 
 <p align="center">
-  <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React/Angular • Python • AI/ML • RAG Chatbots • Computer Vision</em>
+  <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React/Angular • Node/Nest • Python • AI/ML • RAG Chatbots • Computer Vision</em>
 </p>
 
-<p align="center">
-  <a href="mailto:haseeb.butt416@gmail.com">📧 Email</a> •
-  <a href="https://pk.linkedin.com/in/haseeb-attaullah-69a027131">💼 LinkedIn</a> •
-  <a href="https://www.upwork.com/freelancers/haseeb246">🚀 Upwork</a> •
-  <a href="https://bracketmind.com">🏢 Bracket Mind</a>
-</p>
-
-<!-- ────────────────────────────────────────────────────────── -->
-<h1 align="center">👋 Muhammad Haseeb — Full-Stack & AI Architect</h1>
-<p align="center"><em>ASP.NET 8/9 • C# • React / Angular • Node / Nest • Python / FastAPI • RAG Chatbots • Computer Vision</em></p>
 
 <p align="center">
   <a href="mailto:haseeb.butt416@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"/></a>
@@ -32,13 +22,19 @@
 - Advocate of clean / vertical-slice architecture, test automation & cost-efficient AI
 
 <!-- ────────────────────────────────────────────────────────── -->
-## 🧑‍💼 How I Work
+## 🧑‍💼 How I Work - 🚀 Dual Offering
 
-| &nbsp; | **Individual Consultant** | **Bracket Mind Team** |
-|---|---|---|
-| **Scope** | Architecture audits, prototypes, critical feature spikes | Full-cycle SaaS builds & sustained delivery |
-| **Engagement** | Flexible hours, direct one-on-one collaboration | Dedicated squad (PM + Dev + QA) |
-| **Ideal For** | Start-ups needing senior guidance fast | Scale-ups demanding velocity & 24/7 support |
+### 👨‍💻 Individual Services
+- **Architecture Consulting**: Clean Architecture, Microservices, SaaS Patterns
+- **Full-Stack Development**: .NET + React/Angular complete solutions
+- **AI Integration**: RAG, Computer Vision, LLM-powered automation
+- **Legacy Modernization**: Monolith-to-Microservice migrations
+
+### 🏢 Company Services (via Bracket Mind)
+- **End-to-End Product Development**: From MVP to Enterprise Scale
+- **HRTech/Payroll Solutions**: Complete ERP systems
+- **AI Surveillance Systems**: Custom computer vision solutions
+- **Dedicated Teams**: Managed development squads
 
 <!-- ────────────────────────────────────────────────────────── -->
 ## 🛠 Tech Toolbox
@@ -76,15 +72,22 @@
 | **Security & Compliance** | OAuth2/OIDC, Azure AD, GDPR, SOC 2 readiness | Passed US payroll compliance reviews first attempt |
 
 <!-- ────────────────────────────────────────────────────────── -->
-## 🚀 Flagship Projects
+## 🚀 Featured Projects
 
-| Project | Stack | Highlight |
+| Project | Tech Highlights | What Sets It Apart |
 | --- | --- | --- |
-| **Emformance ERP** | .NET 9 • React 19 • SQL Server • Azure | Multi-tenant HR/Payroll/Accounting suite with blue-green deploys |
-| **Smart AI Surveillance** | FastAPI • YOLO • React Dashboard | Real-time suspicious-behaviour detection via RTSP/ONVIF |
-| **AI Resume Screener** | Python • LangChain • Azure OpenAI | Instant CV-job matching with zero-shot embeddings |
+| **Emformance ERP** | .NET 9 • React 19 • SQL Server • Azure | Multi-tenant HR / Payroll / Accounting suite with zero-downtime blue-green deploys and < 10 ms API latency. |
+| **Smart AI Surveillance** | FastAPI • YOLOv5 • React Dashboard | Real-time detection of theft, violence, fire, and other anomalies on **10 k +** concurrent Hikvision RTSP feeds, with instant alerting & clip storage. |
+| **AI Resume Screener** | Python • LangChain • Azure OpenAI | RAG-powered chatbot that screens, ranks, and scores resumes in seconds, boosting recruiter throughput **3 ×**. |
+| **Recruitment Job Portal** | ASP.NET Core • React • Azure AI | End-to-end hiring pipeline: AI job-description generator, resume screening & ranking, auto-scheduled AI interviews, and dynamic quiz creation—**all with one click**. |
+| **AI Project Manager** | Node / Nest • React 19 • GPT-4o | Generates projects, milestones, and Kanban tasks from a single project brief, slashing planning time **70 %**. |
+| **Goal & OKR Generator** | .NET 8 • React 18 • OpenAI Functions | Transforms a goal statement into structured Objectives, Key Results, and Kanban tasks in seconds, driving transparent execution. |
+| **RAG Chatbot Platform** | FastAPI • pgvector • LangChain | White-label, multi-tenant chatbots that answer customer queries 24 / 7 and double as sales agents—deployed in days, not months. |
+| **Private ChatGPT-Style Agent** | Next.js • Supabase • OpenAI | Secure, self-hosted conversational AI with long-term memory and team spaces—your data stays **100 %** under your control. |
+| **Vehicle OCR & Tracking** | Python • OpenCV • Tesseract | Pipeline that detects number plates in arbitrary images, deskews, highlights ROI, extracts text, and exports clean plate images + JSON—ready for law-enforcement search. |
+| **Home Security AI** | FastAPI • YOLOv8 • Jetson Nano | Edge-based intruder, fire, and abnormal-behavior detection with smart alerts; designed for low-bandwidth homes & offices. |
 
-<small>*Private code under NDA available via screen-share on request.*</small>
+<small>*Private code is under NDA but can be demonstrated live on request.*</small>
 
 <!-- ────────────────────────────────────────────────────────── -->
 ## 📈 Engineering Highlights
