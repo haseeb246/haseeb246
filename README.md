@@ -56,7 +56,7 @@
 
 | Project | Tech | Summary |
 | ------- | ---- | ------- |
-| **Emformance ERP** 🔗 | .NET 8, React, SQL Server, Azure | Multi-tenant HR/Payroll/Accounting suite; designed clean architecture, modular front-end system, Stripe billing, RabbitMQ background jobs |
+| **Emformance ERP** 🔗 | .NET 9, React 19 ts, SQL Server, Azure | Multi-tenant HR/Payroll/Accounting suite; designed clean architecture, modular front-end system, Stripe billing, RabbitMQ background jobs | emformance.com
 | **Smart AI Surveillance** 🔗 | FastAPI, YOLO, React Dashboard | Real-time suspicious-behavior detection via Hikvision RTSP; edge processing, alerting, video clipping & storage optimization |
 | **AI Resume Screener** 🔗 | Python, LangChain, Azure OpenAI | RAG chatbot & scoring engine for candidate-resume matching; zero-shot embeddings with vector DB, Mapster mapping in .NET micro-service |
 
