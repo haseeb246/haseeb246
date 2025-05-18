@@ -1,6 +1,23 @@
 <!-- GitHub Profile README -->
+<!-- Replace your stats card -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=haseeb246&show_icons=true&hide_border=true"
+    alt="Muhammad Haseeb's GitHub stats"
+/>
+</p>
 
-<h1 align="center">Hi there&nbsp;👋 I’m Muhammad Haseeb — Full-Stack Senior Developer - Asp.net c#, React, Angular, Node/Nest & AI Architect (Python Fast API, Rag Chatbots, AI Automation of Applications,  Web Scraping, Computer Vision)</h1>
+<!-- Tighten the headline -->
+<h1 align="center">Hi there 👋 I’m Muhammad Haseeb — Full-Stack & AI Architect</h1>
+<p align="center">
+  <em>.NET 8/9 • React / Angular • FastAPI • RAG & Computer Vision</em>
+</p>
+
+<!-- Call-to-action under links -->
+<p align="center">
+  <a href="mailto:haseeb@bracketmind.com">📧 haseeb@bracketmind.com</a> |
+  <a href="https://upwork.com/fl/your-upwork">Hire me on Upwork</a>
+</p>
 
 <p align="center">
   <a href="mailto:haseeb.butt416@gmail.com">Email</a> •
