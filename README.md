@@ -91,7 +91,3 @@
     alt="Muhammad Haseeb's GitHub stats"
 />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" />
-</p>
