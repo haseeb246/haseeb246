@@ -1,4 +1,18 @@
 <!-- GitHub Profile README -->
+<h1 align="center">👋 Hi, I'm Muhammad Haseeb</h1>
+<h3 align="center">Full-Stack Architect • AI Solutions Expert • CTO @ Bracket Mind</h3>
+
+<p align="center">
+  <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React • Python • AI/ML</em>
+</p>
+<p align="center"><em>ASP.NET 8/9 • C# • React / Angular • Node / Nest • Python / FastAPI • RAG Chatbots • Computer Vision</em></p>
+
+<p align="center">
+  <a href="mailto:haseeb.butt416@gmail.com">📧 Email</a> •
+  <a href="https://pk.linkedin.com/in/haseeb-attaullah-69a027131">💼 LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/haseeb246">🚀 Upwork</a> •
+  <a href="https://bracketmind.com">🏢 Bracket Mind</a>
+</p>
 
 <!-- ────────────────────────────────────────────────────────── -->
 <h1 align="center">👋 Muhammad Haseeb — Full-Stack & AI Architect</h1>
