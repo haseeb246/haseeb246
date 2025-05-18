@@ -16,7 +16,7 @@
 <!-- Call-to-action under links -->
 <p align="center">
   <a href="mailto:haseeb.butt416@gmail.com">📧 haseeb.butt416@gmail.com</a> |
-  <a href="https://www.upwork.com/freelancers/haseeb246">Hire me on Upwork</a>
+  <a href="https://www.upwork.com/freelancers/haseeb246">Hire me on Upwork</a> |
   <a href="https://pk.linkedin.com/in/haseeb-attaullah-69a027131">Contact me on Linkedin</a>
 </p>
 
