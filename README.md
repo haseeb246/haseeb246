@@ -10,13 +10,14 @@
 <!-- Tighten the headline -->
 <h1 align="center">Hi there 👋 I’m Muhammad Haseeb — Full-Stack & AI Architect</h1>
 <p align="center">
-  <em>.NET 8/9 • React / Angular • FastAPI • RAG & Computer Vision</em>
+  <em>Asp.net c#, .Net • React / Angular • Node / Nest • Python • FastAPI • RAG & Computer Vision</em>
 </p>
 
 <!-- Call-to-action under links -->
 <p align="center">
-  <a href="mailto:haseeb@bracketmind.com">📧 haseeb@bracketmind.com</a> |
-  <a href="https://upwork.com/fl/your-upwork">Hire me on Upwork</a>
+  <a href="mailto:haseeb.butt416@gmail.com">📧 haseeb.butt416@gmail.com</a> |
+  <a href="https://www.upwork.com/freelancers/haseeb246">Hire me on Upwork</a>
+  <a href="https://pk.linkedin.com/in/haseeb-attaullah-69a027131">Contact me on Linkedin</a>
 </p>
 
 <p align="center">
