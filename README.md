@@ -32,6 +32,8 @@
 - **AI Integration:** RAG chatbots, Computer Vision, LLM-powered automation  
 - **Legacy Modernization:** Monolith-to-Micro-service migrations  
 
+<!-- ────────────────────────────────────────────────────────── -->
+
 ### 🏢 Company Services (via Bracket Mind)
 - **End-to-End Product Development:** From MVP to enterprise scale  
 - **HRTech / Payroll Solutions:** Complete ERP systems  
@@ -46,6 +48,8 @@
 ✔ **AI That Actually Works** - Beyond POCs to scalable solutions  
 ✔ **Domain-Specific Expertise** - HRTech, Payroll, Surveillance AI  
 
+<!-- ────────────────────────────────────────────────────────── -->
+
 ## �️ Why Choose Me? - Specialized Expertise
 
 | Specialty | What You Get | Proven Results |
@@ -55,6 +59,8 @@
 | **Database Engineering** | • SQL Server 2022/PostgreSQL 16 optimization<br>• Row-level security for multi-tenant apps<br>• Vector search with pgvector | ✅ Achieved:<br>• **70% faster** payroll calculations<br>• 50+ tenants with secure data isolation<br>• 5x query performance improvements |
 | **Modern Front-Ends** | • Component-driven design systems<br>• Accessibility-compliant UIs<br>• React Native cross-platform solutions | ✅ Delivered:<br>• **40% faster** feature development<br>• 99% Lighthouse accessibility scores<br>• 60 FPS animations at scale |
 | **Security & Compliance** | • OAuth2/OIDC & Azure AD integration<br>• GDPR/SOC 2 readiness audits<br>• Infrastructure hardening | ✅ Successfully:<br>• Passed US payroll compliance review<br>• Implemented bank-grade encryption<br>• Reduced security incidents to zero |
+
+<!-- ────────────────────────────────────────────────────────── -->
 
 **Key Differentiators:**  
 🔹 **CTO-Level Thinking** with hands-on execution  
@@ -86,6 +92,7 @@
 </details>
 
 <!-- ────────────────────────────────────────────────────────── -->
+
 ## 🚀 Featured Projects
 
 | Project | Tech Highlights | What Sets It Apart |
@@ -104,6 +111,7 @@
 <small>*Private code is under NDA but can be demonstrated live on request.*</small>
 
 <!-- ────────────────────────────────────────────────────────── -->
+
 ## 📈 Engineering Highlights
 - Shipped **30+** enterprise projects with > 95 % client satisfaction  
 - Boosted payroll engine throughput **70 %** using expression trees & caching  
@@ -111,12 +119,14 @@
 - Speaker & mentor on clean architecture, multi-tenant SaaS & AI integration  
 
 <!-- ────────────────────────────────────────────────────────── -->
+
 ## 🔭 Currently Building
 - Vertical-Slice migration of legacy services (.NET 9)  
 - Jetson Nano YOLOv5 prototype for edge intruder detection  
 - Open-sourcing an **Upwork Job-Scraper** dashboard (React 19 + TS)
 
 <!-- ────────────────────────────────────────────────────────── -->
+
 ## 🤝 Let’s Connect
 Planning a **scalable SaaS** or integrating **AI at production scale**?  
 Whether you need a **single senior engineer** or a **full delivery squad**, I’m ready to help.
