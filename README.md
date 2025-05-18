@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there&nbsp;👋 I’m Haseeb Butt — Full-Stack & AI Architect</h1>
+<h1 align="center">Hi there&nbsp;👋 I’m Muhammad Haseeb — Full-Stack Senior Developer - Asp.net c#, React, Angular, Node/Nest & AI Architect (Python Fast API, Rag Chatbots, AI Automation of Applications,  Web Scraping, Computer Vision)</h1>
 
 <p align="center">
   <a href="mailto:haseeb.butt416@gmail.com">Email</a> •
