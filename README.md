@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <h1 align="center">👋 Hi, I'm Muhammad Haseeb</h1>
-<h3 align="center">Full-Stack Architect • AI Solutions Expert • CTO @ Bracket Mind</h3>
+<h3 align="center">Full-Stack .Net Architect · AI Solutions Expert · CTO @ Bracket Mind</h3>
 
 <p align="center">
   <em>Building enterprise-grade SaaS solutions for 9+ years | .NET • React/Angular • Node/Nest • Python • AI/ML • RAG Chatbots • Computer Vision</em>
@@ -16,7 +16,7 @@
 
 <!-- ────────────────────────────────────────────────────────── -->
 ## 🌟 Snapshot
-- **9 + years** building production-grade, cloud-native SaaS products  
+- **9+ years** building production-grade, cloud-native SaaS products  
 - Founder & **CTO, Bracket Mind** — HR, Payroll, Accounting & AI-driven security solutions  
 - Deep domain expertise in **multi-tenant ERP, payroll tax, and computer-vision surveillance**  
 - Advocate of clean / vertical-slice architecture, test automation & cost-efficient AI
@@ -26,7 +26,7 @@
 
 ### 👨‍💻 Individual Services
 - **Architecture Consulting**: Clean Architecture, Microservices, SaaS Patterns
-- **Full-Stack Development**:  .NET + React/Angular | Node//Nest + React/Angular | Python/FastApi + React/Angular complete solutions
+- **Full-Stack Development**:  .NET / Node / Nest / Python / FastApi + React / Angular complete solutions
 - **AI Integration**: AI RAG Chatbots, Computer Vision, LLM-powered automation
 - **Legacy Modernization**: Monolith-to-Microservice migrations
 
@@ -47,10 +47,10 @@
 <summary><strong>Click for badge overload</strong></summary>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" title=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" title="csharp"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" title="csharp"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" title="csharp"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white"/>
