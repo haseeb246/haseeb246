@@ -3,9 +3,9 @@
 <h1 align="center">Hi there&nbsp;👋 I’m Haseeb Butt — Full-Stack & AI Architect</h1>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://upwork.com/fl/your-upwork/">Upwork</a> •
+  <a href="mailto:haseeb.butt416@gmail.com">Email</a> •
+  <a href="https://pk.linkedin.com/in/haseeb-attaullah-69a027131">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/haseeb246">Upwork</a> •
   <a href="https://bracketmind.com">Bracket Mind (CTO)</a>
 </p>
 
